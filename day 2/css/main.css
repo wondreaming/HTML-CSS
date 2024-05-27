@@ -1,0 +1,41 @@
+.profile {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-text {
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+/* tag selector */
+/* class style */
+ul {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+/* id selector */
+/* id */
+#violet {
+  color: blueviolet;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  background-color: black;
+  margin: 30px;
+  /* padding: 40px; */
+  border: 4px solid gray;
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 10px;
+  box-shadow: red 35px 35px;
+}
